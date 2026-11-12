@@ -1,0 +1,7 @@
+# Data pribadi warga (NIK, nama) - jangan diunggah ke repositori publik
+data/
+models/
+outputs/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
