@@ -2,6 +2,9 @@
 data/
 models/
 outputs/
+
+# Lingkungan Python (dibuat ulang di setiap komputer)
+venv/
 .venv/
 __pycache__/
 .ipynb_checkpoints/
